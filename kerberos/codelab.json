@@ -1,0 +1,17 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-12-20T18:56:38+01:00",
+  "id": "map[kerberos]",
+  "duration": 0,
+  "title": "Análisis de paquetes de red ante incidente de enumeración de usuarios por el servicio de Kerberos",
+  "summary": "",
+  "source": "README.md",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "url": "map[kerberos]"
+}
